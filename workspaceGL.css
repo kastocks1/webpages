@@ -1,19 +1,23 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+*Name: Kristopher Stocks
+ *UnityID: kastocks
+ *Date: 4/9/2025
+ *Assignment: Guided lab 4
+ *Description: Guided lab assignment, about me page
  */
- 
-p {
-    property: value;
+
+ p {
+    font-family: Times;
+    font-size: 16px;
+    color: #DECAFF;
 }
 
-.class {
-    property: value;
+.table-border {
+    border: 1px solid #DECAFF;
+ }
+
+#photo-resize {
+max-width: 250px;
+max-height: 300px;
 }
 
-#id {
-    property:value;
-}
